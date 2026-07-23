@@ -1,0 +1,11 @@
+{
+    "name": "ejemplos-node",
+    "version": "0.0.1",
+    "main": "index.js",
+    "type": "module",
+    "author": "cemendez",
+    "license": "MIT",
+    "dependencies": {
+        "ms": "^2.1.3"
+    }
+}
